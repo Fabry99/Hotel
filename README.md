@@ -37,7 +37,7 @@ Clona el repositorio:
 
 bash
 Copiar código
-git clone https://github.com/tu-usuario/hotel-management-system.git
+git clone 
 cd hotel-management-system
 Configura la base de datos:
 
